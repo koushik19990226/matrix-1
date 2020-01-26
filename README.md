@@ -71,7 +71,8 @@ for(j=1;j<=b;j++){
 diff=c[i][j]-diff;}
 printf("difference of %d row of matrix is %d\n",i,diff);
 diff=0;}
-return 0;}
+return 0;
+}
 
 
 
